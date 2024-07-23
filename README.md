@@ -13,6 +13,7 @@ This project is an ATM system simulation implemented in C. It allows users to pe
 **8.ATM Management:** Admin can set ATM parameters and view transaction logs.
 
 **Files**
+
 **1.main.c:** Main program file containing the implementation of the ATM system.
 **2.users.txt:** File to store user data.
 **3.transaction.log:** File to store transaction logs.
